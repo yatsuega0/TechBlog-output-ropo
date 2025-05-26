@@ -1,1 +1,2 @@
-# TechBlog-output-ropo
+# 概要 
+技術ブログアウトプット共有用
